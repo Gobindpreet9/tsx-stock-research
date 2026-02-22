@@ -329,7 +329,8 @@ From all STRONG BUY/BUY stocks:
 1. Rank by composite score (descending)
 2. Apply regime filter from Stage 0
 3. **Chain allocation: 2-4 positions per chain based on conviction** (more for high-conviction, fewer for lower)
-4. **Diversification**: Max 25% per sector (GICS L1), mix of market caps, monitor correlation clusters
+4. **Diversification**: Max 40% per sector (GICS L1) when conviction is high (25% default), mix of market caps, monitor correlation clusters
+   - **Technology sub-sector limits**: Max 20% per sub-sector (SaaS, Cybersecurity, Semiconductors, E-commerce, Fintech, Gaming)
 5. Build 15-25 position model portfolio
 6. Apply volatility-adjusted sizing from Stage 3H
 7. **Tax optimization**: Prioritize TFSA/FHSA/RRSP for rebalancing-heavy positions (no tax drag). Place buy-and-hold in taxable if advantageous.
@@ -395,7 +396,8 @@ CANADIAN POLICY EVENTS:
 
 POSITION LIMITS:
 - Max single position: 5% (core), 2% (satellite)
-- Max sector: 25%
+- Max sector: 40% (high conviction) / 25% (default)
+- Tech sub-sector max: 20% each (SaaS, Cybersecurity, Semiconductors, etc.)
 - Max drawdown: 15% (reduce at 12%)
 - Correlation monitoring: Avoid >3 stocks from same macro driver
 
