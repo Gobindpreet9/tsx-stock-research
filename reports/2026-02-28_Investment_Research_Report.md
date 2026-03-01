@@ -438,7 +438,10 @@ NIST PQC Standards → Migration Services → Enterprise Security Overhaul
 | NASDAQ:ISRG | Intuitive Surgical | ~$150B | Surgical Robotics | No | Favored | Da Vinci system monopoly; 18% procedure growth | High valuation; competitive threats |
 | NYSE:AMZN | Amazon | ~$1.8T | Warehouse Robotics | No | Favored | 750K+ robots deployed; Prime speed dependent on automation | Antitrust scrutiny; massive CapEx requirements |
 | NASDAQ:NVDA | NVIDIA | ~$1.5T | AI/Robot Brain | No | Favored | Isaac platform providing 'brain' for humanoid robots | Extreme valuation; competitive threats |
-| NASDAQ:PATH | UiPath | ~$10B | RPA/Software | No | Favored | #1 RPA platform; AI Copilot integration expanding scope | Competition from Microsoft; profitability concerns |
+|| NASDAQ:PATH | UiPath | ~$10B | RPA/Software | No | Favored | #1 RPA platform; AI Copilot integration expanding scope | Competition from Microsoft; profitability concerns |
+|| TYO:6268 | **Nabtesco** | ~$3.5B | **Robot Gears** | **No** | **Favored** | **World's largest robot reducer supplier; 60% market share** | **Japan exposure; customer concentration** |
+|| NASDAQ:CGNX | **Cognex** | ~$8B | **Machine Vision** | **No** | **Favored** | **Vision-guided robotics leader; recurring revenue model** | **Cyclical industrial exposure** |
+|| TYO:6861 | Keyence | ~$100B | Sensors/Vision | No | Favored | Japan's largest industrial sensor company; 50%+ margins | Premium valuation; yen exposure |
 
 ---
 
@@ -488,6 +491,50 @@ NIST PQC Standards → Migration Services → Enterprise Security Overhaul
 **Gaps**:
 - No major industrial robot OEM (unlike FANUC, ABB)
 - Limited pure-play robotics exposure on TSX
+### Humanoid Robotics — Component Supply Chain (Indirect Exposure)
+
+**Market Opportunity**:
+- Global humanoid market: ~$3B (2025) → **$38B by 2035** (Goldman Sachs)
+- Hardware components = **55% of BOM value** — pure-play investment opportunity
+- 2026 = inflection year with mass production starting
+
+**Key Insight**: Component suppliers offer better risk/reward than end-product makers because they benefit regardless of which humanoid wins (Tesla, Figure, Amazon, etc.)
+
+**Component Breakdown by Value**:
+| Component | % of BOM | Market Size | Key Suppliers |
+|-----------|----------|-------------|---------------|
+| **Actuators/Gears** | 22% | $8.4B | Nabtesco (TYO:6268), Harmonic Drive (TYO:6324) |
+| **Sensors/Vision** | 17% | $6.5B | Keyence (TYO:6861), Cognex (CGNX), Novanta (NOVT) |
+| **Compute/AI** | 13% | $4.9B | NVIDIA (NVDA), AMD (AMD) |
+| **Batteries** | 8% | $3.0B | Tesla (internal), CATL (private) |
+| **Structure** | 7% | $2.7B | Various metals suppliers |
+
+**Best Public Component Suppliers**:
+
+| Ticker | Company | Market Cap | Component | Investment Thesis |
+|--------|---------|------------|-----------|-------------------|
+| TYO:6268 | Nabtesco | ~$3.5B | **RV reducers** | World's largest precision gear supplier; 60% global market share in robot reducers |
+| TYO:6324 | Harmonic Drive | ~$2.8B | **Harmonic drives** | Precision motion control for joints; essential for smooth robot movement |
+| TYO:6861 | Keyence | ~$100B | **Machine vision** | Japan's largest industrial sensor company; 3D vision for robot perception |
+| NASDAQ:CGNX | Cognex | ~$8B | **Vision systems** | Leading vision-guided robotics; supply chain verification |
+| NASDAQ:NOVT | Novanta | ~$5B | **Motion control** | Precision motion subsystems for robotics and medical |
+
+**Why Component Suppliers Beat End Products**:
+- **Nabtesco**: Supplies Tesla, Figure AI, Boston Dynamics, FANUC — diversified customer base
+- **Keyence**: 50%+ operating margins; pricing power from technical dominance
+- **Cognex**: Recurring revenue from vision system maintenance and upgrades
+
+**Canadian Exposure — Limited**:
+- **Humanoid Global (CSE:ROBO)**: First publicly listed pure-play; micro-cap (~$20M); high risk
+- **RBOT (TSX)**: Horizons Robotics ETF with diversified exposure
+- **No direct Canadian suppliers** — opportunity gap
+
+**Investment Recommendation**:
+- **Core position**: Nabtesco (TYO:6268) — the "picks and shovels" play
+- **Satellite**: Cognex (CGNX) — machine vision leader
+- **Canadian proxy**: RBOT ETF — diversified robotics exposure on TSX
+
+---
 
 ---
 
