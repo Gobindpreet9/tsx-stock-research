@@ -135,6 +135,14 @@ CASH MANAGEMENT:
 
 ---
 
+## Framework Principles
+
+Apply critical thinking protocols from `references/02_framework_principles.md`:
+- Second-Order Thinking (portfolio-level exposure)
+- Supply Chain Mapping (concentration risk)
+
+---
+
 ## Data Sources
 
 See `references/01_data_sources.md` for required data sources.

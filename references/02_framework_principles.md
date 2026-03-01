@@ -54,7 +54,31 @@
 
 ---
 
-## 4. Cross-Cutting Validation Questions (Stage Gate)
+## 4. Private Signal Detection
+
+**When private companies reach massive valuations:**
+
+1. **Identify public suppliers** to those private companies
+2. **Map capital flows**: Where is VC/PE money clustering?
+3. **Pre-IPO positioning**: Which public companies could acquire or partner?
+
+**Rationale**: Private market valuations often signal trends 12-24 months before public markets fully price them.
+
+---
+
+## 5. Contrarian View Requirement
+
+**For EVERY investment thesis:**
+
+1. **Ask**: What's the non-obvious/under-appreciated way to play this trend?
+2. **Search for bear cases**: Why might the consensus be wrong?
+3. **Identify crowded trades**: If everyone owns it, who's left to buy?
+
+**Rationale**: The best returns come from insights the market hasn't fully priced.
+
+---
+
+## Cross-Cutting Validation Questions (Stage Gate)
 
 **Before finalizing ANY stage, ALL subagents must answer:**
 
@@ -76,4 +100,5 @@
 | Stage 1 (Trends) | Second-Order, Supply Chain, Contrarian |
 | Stage 2 (Stocks) | Supply Chain, Geographic Gap, Private Signal |
 | Stage 3 (Analysis) | All 5 protocols |
-| Stage 4 (Portfolio) | Second-Order, Value Chain |
+| Stage 4 (Portfolio) | Second-Order, Supply Chain |
+| Stage 5 (Report) | Synthesis of all protocols |

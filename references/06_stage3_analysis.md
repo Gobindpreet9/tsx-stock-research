@@ -44,7 +44,7 @@ For each candidate, run independent buy/pass analysis. **Launch ALL stock analys
 
 ---
 
-### D. Trend Alignment & Timing (Score 10)
+### D. Trend Alignment & Timing (Score 1-10)
 
 - How directly benefits?
 - % revenue tied to trend?

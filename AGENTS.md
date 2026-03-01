@@ -12,7 +12,7 @@
 
 Multi-stage parallelized investment trend research framework focused on Canadian (TSX) stocks with global opportunity capture.
 
-**5 Stages**:
+**6 Stages**:
 1. **Stage 0**: Macro Regime Assessment (4 parallel subagents)
 2. **Stage 1**: Trend Chain Discovery (7 parallel subagents)
 3. **Stage 2**: Stock Universe Generation (per chain)
@@ -104,7 +104,7 @@ Prioritize Canadian-listed stocks when quality is comparable, but **do not compr
 
 ## Main Agent Responsibilities
 
-1. **Orchestrate** the 5-stage flow
+1. **Orchestrate** the 6-stage flow
 2. **Launch** subagents in parallel within each stage
 3. **Collect** and synthesize outputs
 4. **Validate** completion criteria before proceeding
@@ -140,13 +140,11 @@ Prioritize Canadian-listed stocks when quality is comparable, but **do not compr
 
 **Cleanup Protocol** (execute after Stage 5 complete):
 ```bash
-# Keep only final reports (YYYY-MM-DD_Investment_Research_Report.md pattern)
-# Remove all intermediate files:
-# - stage1_*_trend_chain.md
-# - *_trend_chain.md
-# - *_analysis.md
-# - humanoid_*_investment.md
-# - any other working documents
+cd ./reports/
+# Remove intermediate files, keep only final reports
+rm -f stage*_*.md *_trend_chain.md *_analysis.md humanoid_*.md
+# Verify only final reports remain
+ls -la *_Investment_Research_Report.md
 ```
 
 **Rationale**: The `./reports/` folder is for finalized, actionable investment reports only. Intermediate research files clutter the directory and create confusion about which document is authoritative. Subagents should use temporary files during execution for traceability, but cleanup is mandatory before task completion.

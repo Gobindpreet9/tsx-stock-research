@@ -46,12 +46,8 @@ Identify 10-15 macro investment trend chains across **TWO TIME HORIZONS**:
 
 ⚠️ **TIMING CHECK**: For immediate trends, explicitly flag: Is the market narrative already saturated? Are valuations pricing in 3-5 years of growth already?
 
-⚠️ **FOR PHYSICAL TECHNOLOGY TRENDS **(Robotics, EVs, Nuclear, etc.)
-**Apply Supply Chain Mapping Protocol**:
-1. Map components → subsystems → end products
-2. Quantify % of BOM value at each layer
-3. Identify public component suppliers (diversified customers)
-4. Prioritize "picks and shovels" over end-product winners
+⚠️ **FOR PHYSICAL TECHNOLOGY TRENDS** (Robotics, EVs, Nuclear, etc.):
+Apply **Supply Chain Mapping Protocol** from `references/02_framework_principles.md`.
 
 **Template examples** (research current state of these AND find new ones):
 - AI compute demand → infrastructure → power → materials
