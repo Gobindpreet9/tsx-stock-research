@@ -108,15 +108,35 @@ KEY MACRO RISKS TO MONITOR:
 
 ## STAGE 1: Trend Chain Discovery (Parallel Research)
 
-**Objective**: Identify 10-15 macro investment trend chains. Map catalysts to second-, third-, fourth-order effects. Prioritize chains where Canada has structural advantage.
+**Objective**: Identify 10-15 macro investment trend chains across TWO TIME HORIZONS:
+- **Immediate Trends (0-12 months)**: Already in motion, visible to market, may be mid/late innings
+- **Emerging Trends (12-36 months)**: Early detection, pre-mainstream, positioning before crowd
+
+For each trend, assess timing maturity and remaining runway. Avoid trend-following into late-stage dynamics unless clear undervalued nodes exist.
+
+Map catalysts to second-, third-, fourth-order effects. Prioritize chains where Canada has structural advantage.
+
 
 **Cross-reference each chain with Stage 0 regime assessment.**
 
 **IMPORTANT**: The bullet points below are **TEMPLATES AND EXAMPLES ONLY**. Each subagent must spend significant time researching **CURRENT EMERGING TRENDS** from fresh sources (news, earnings calls, policy announcements, academic research, industry reports) rather than just analyzing these pre-listed examples. Discover what is actually happening NOW.
 
 Launch the following subagents **simultaneously**:
-
 ### [SUBAGENT 1A] — Technology & Compute Trends
+**Research BOTH time horizons:**
+
+**Immediate (0-12mo) - assess if we're late:**
+- AI infrastructure build-out → data centers → power demand
+- Cloud migration maturity → optimization spend
+- Cybersecurity escalation post-breaches
+
+**Emerging (12-36mo) - early positioning:**
+- AI agents/automation → labor displacement → retraining
+- Quantum computing → cryptography disruption
+- Edge AI → on-device inference → semiconductor shifts
+- Synthetic biology → bio-manufacturing
+
+⚠️ **TIMING CHECK**: For immediate trends, explicitly flag: Is the market narrative already saturated? Are valuations pricing in 3-5 years of growth already?
 **Template examples (research current state of these AND find new ones):**
 - AI compute demand → infrastructure → power → materials
 - AI agents/automation → labor displacement → retraining
@@ -143,7 +163,20 @@ Launch the following subagents **simultaneously**:
 - Cost of living crisis → discount retail, fintech, sharing economy
 
 ### [SUBAGENT 1D] — Energy, Climate & Resources Trends
-**Template examples (research current state of these AND find new ones):**
+**Research BOTH time horizons:**
+
+**Immediate (0-12mo) - assess if we're late:**
+- Nuclear/uranium restart → existing mine supply
+- Battery metals demand → lithium/copper prices
+- LNG infrastructure build-out
+
+**Emerging (12-36mo) - early positioning:**
+- SMRs (Small Modular Reactors) → regulatory approval
+- Hydrogen economy → industrial adoption scale
+- Carbon markets → compliance trading expansion
+- Critical minerals → new mine development (7-10 year cycle)
+
+⚠️ **TIMING CHECK**: Resource cycles are long. Mid-cycle ≠ late if supply response is constrained. Check inventory levels, project pipelines, substitution threats.
 - Nuclear renaissance → uranium, SMRs, fuel services, grid modernization
 - Climate adaptation → insurance repricing, wildfire tech, water infrastructure
 - EV adoption → battery metals → recycling → charging infrastructure
@@ -191,14 +224,23 @@ RESOURCE CONFLICTS:
   - [Chain A] competes with [Chain B] for: [resource/capital/talent]
 ```
 
-**Standard Chain Output Format**:
+**Standard Chain Output Format** (INCLUDE TIMING ASSESSMENT):
 ```
 CHAIN: [Name]
+TIME HORIZON: [Immediate 0-12mo / Emerging 12-36mo]
 CATALYST: [What triggers it]
 MACRO ALIGNMENT: [Favored/Neutral/Disfavored - explain]
 GRAPH: Node A → Node B → Node C
             ↘ Node D → Node E
 STAGE: [Early/Mid/Late innings per node]
+TIMING ASSESSMENT:
+  - Market Awareness: [Mainstream/Early majority/Early adopters/Insiders only]
+  - Price Action: [Already run X% / Building base / Just breaking out]
+  - Valuation Status: [Pricing in Y years of growth]
+  - Remaining Runway: [Specific catalysts not yet priced]
+LATE-CYCLE CONSIDERATIONS:
+  - If Late: [Why still valid (undervalued node, supply constraints, policy support)]
+  - If Early: [Validation points needed to confirm thesis]
 CANADIAN EDGE: [Yes/No + why]
 PRICED IN: [Which nodes obvious vs. under-priced]
 ```
@@ -256,8 +298,29 @@ Revenue growth (3-year CAGR, recent quarter), profitability (gross/operating/FCF
 #### C. Valuation (Score 1-10)
 Current P/E, P/S, EV/EBITDA vs. 5-year average, relative vs. peers, PEG if growth, trend priced in?, DCF/sum-of-parts if applicable.
 
-#### D. Trend Alignment (Score 1-10)
+#### D. Trend Alignment & Timing (Score 1-10)
 How directly benefits? % revenue tied to trend? Position in chain (early/mid/late node)? Catalysts next 6-12 months? Management commentary from earnings calls.
+
+**⚠️ CRITICAL: Late-Cycle Assessment**
+TREND TIMING ANALYSIS:
+- Trend Stage: [1st/2nd/3rd = Early] [4th/5th/6th = Mid] [7th/8th/9th = Late]
+- Price Performance vs. Trend: [Stock up X% while trend still early/mid/late]
+- Market Narrative Saturation: [No one talks about it / Early buzz / Mainstream / Consensus]
+- Valuation vs. Trend Maturity: [Pricing in 1yr/3yr/5yr+ of trend growth]
+- Institutional Positioning: [Under-owned/Building/Peak ownership]
+
+**LATE BUT STILL VALID CRITERIA (check at least 2):**
+☐ Stock trades at discount to peers despite trend exposure
+☐ Supply constraints prevent rapid competitive entry
+☐ Regulatory/policy tailwinds extend runway
+☐ Company is SECOND-DERIVATIVE play (not obvious first-order)
+☐ Underlying trend has 5+ years of visibility
+
+RUNWAY ASSESSMENT:
+- Remaining Upside Catalysts: [List]
+- Time to Peak Earnings: [Quarters/years]
+- Trend Duration Estimate: [Temporary vs. secular]
+
 
 #### E. Canadian Investor Considerations
 TFSA/FHSA/RRSP eligibility, withholding tax if U.S.-listed, CAD/USD exposure, TSX liquidity (volume, spread), SEDI insider activity.
