@@ -427,6 +427,69 @@ NIST PQC Standards → Migration Services → Enterprise Security Overhaul
 | PANW | Palo Alto | $120B | PQC/Cyber | No |
 | CCO | Cameco | $28B | SMR/Nuclear | Yes |
 | ROK | Rockwell | $35B | Robotics | No |
+|| ROK | Rockwell | $35B | Robotics | No |
+
+| **Ticker** | **Company** | **Market Cap** | **Chain Node** | **Canadian** |
+|------------|-------------|----------------|----------------|--------------|
+| **TSX:ATS** | **ATS Corporation** | **~$4.2B** | **Industrial Automation** | **Yes** | **Favored** | **Canadian automation pure-play with strong margin profile** | **Customer concentration; smaller scale than global peers** |
+| NYSE:ROK | Rockwell Automation | ~$45.8B | Industrial/Software | No | Favored | Dominant North American industrial automation with AI initiatives | Cyclical exposure; rich valuation (P/E ~46x) |
+| SWX:ABBN | ABB Ltd | ~$84B CHF | Industrial/Logistics | No | Favored | Global automation leader with robotics and process automation | European macro exposure; currency headwinds |
+| TYO:6954 | FANUC Corp | ~$25B | Industrial Robots | No | Favored | World's #1 industrial robot maker with dominant CNC business | Heavy China manufacturing exposure; cyclical |
+| NASDAQ:ISRG | Intuitive Surgical | ~$150B | Surgical Robotics | No | Favored | Da Vinci system monopoly; 18% procedure growth | High valuation; competitive threats |
+| NYSE:AMZN | Amazon | ~$1.8T | Warehouse Robotics | No | Favored | 750K+ robots deployed; Prime speed dependent on automation | Antitrust scrutiny; massive CapEx requirements |
+| NASDAQ:NVDA | NVIDIA | ~$1.5T | AI/Robot Brain | No | Favored | Isaac platform providing 'brain' for humanoid robots | Extreme valuation; competitive threats |
+| NASDAQ:PATH | UiPath | ~$10B | RPA/Software | No | Favored | #1 RPA platform; AI Copilot integration expanding scope | Competition from Microsoft; profitability concerns |
+
+---
+
+## 9. ROBOTICS & AUTOMATION TREND ANALYSIS
+
+### Market Overview
+
+**Overall Market Size**: $88.27B (2026) → $218.56B (2031) @ 19.86% CAGR
+
+**Segment Breakdown**:
+| Segment | 2026 Size | 2031 Size | CAGR | Stage |
+|---------|-----------|-----------|------|-------|
+| Industrial Robotics | $48.75B | $88.66B | 12.7% | Mid-Late |
+| Warehouse Robotics | $7.94B | $28.84B | 17.5% | Mid |
+| Surgical Robotics | $8.28B | $16.40B | 10.25% | Mid |
+| RPA Software | $5.21B | $19.14B | 29.7% | Early-Mid |
+| Humanoid Robotics | ~$2B | ~$38B | 80%+ | **Early** |
+
+### Key Drivers
+
+1. **Labor Shortages**: 2.1M unfilled warehouse jobs by 2030; manufacturing skills gap
+2. **Reshoring**: New automated facilities needed for domestic production
+3. **E-commerce Growth**: Same-day delivery requires warehouse automation
+4. **AI Breakthroughs**: Foundation models enabling general-purpose robots
+5. **Labor Cost Inflation**: Rising wages improving automation ROI
+
+### Technology Trends
+
+**Humanoid Robots (2026 Inflection Point)**:
+- NVIDIA Isaac GR00T: Foundation model for robot 'brain'
+- Figure AI: $2.6B valuation; BMW deployment
+- Tesla Optimus: Mass production starting; $20K-$30K target price
+- Amazon Digit: Humanoid robot testing in warehouses
+
+**AI-Powered Industrial Automation**:
+- Generative AI integration in RPA
+- Predictive maintenance reducing downtime
+- Collaborative robots (cobots) working alongside humans
+
+### Canadian Edge Assessment
+
+**Strengths**:
+- ATS Automation: Global top-10 automation integrator
+- MDA Space: Space robotics heritage (Canadarm)
+- Strong AI research ecosystem (Vector Institute, MILA)
+
+**Gaps**:
+- No major industrial robot OEM (unlike FANUC, ABB)
+- Limited pure-play robotics exposure on TSX
+
+---
 
 ---
 
@@ -680,6 +743,57 @@ NIST PQC Standards → Migration Services → Enterprise Security Overhaul
 
 ---
 
+## 6. ATS AUTOMATION (TSX:ATS) — **BUY**
+
+**Thesis**: Canada's premier industrial automation systems integrator with global reach. Benefits from reshoring trends, labor shortages, and manufacturing automation demand. Strong margin profile and proven execution on large-scale automation projects.
+
+**Business Quality Score**: 7/10
+- Revenue breakdown: Custom automation systems (75%), Aftermarket services (25%)
+- Competitive moat: Long-term customer relationships, project expertise
+- Management quality: Strong execution on complex projects
+- Pure-play: Only Canadian-listed automation pure-play
+
+**Financial Health Score**: 7/10
+- Revenue growth: Steady growth through project backlog
+- Profitability: Industry-leading margins for integrator
+- Balance sheet: Conservative leverage, strong liquidity
+- ROIC: Solid returns on invested capital
+
+**Valuation Score**: 6/10
+- Current P/E: ~18-20x (reasonable for quality)
+- Trend priced in: Partially—reshoring tailwinds not fully priced
+- Valuation vs peers: Discount to Rockwell, premium to industrials
+
+**Trend Alignment Score**: 9/10
+- Direct benefit: 100% automation exposure
+- Position in chain: Systems integrator (key node)
+- Catalysts: Reshoring announcements, labor shortage data
+
+**Canadian Investor Considerations**:
+- TFSA/FHSA eligible
+- TSX liquidity: Good
+- Pure-play Canadian automation exposure
+
+**Risk Assessment**:
+1. Customer concentration (large projects)
+2. Project execution risk
+3. Smaller scale than global peers (ABB, Rockwell)
+4. Cyclical exposure to manufacturing CapEx
+
+**Bear Case**: Manufacturing recession, project delays, margin compression.
+
+**Exit Criteria**:
+- Price Target: Bull $75 / Base $60 / Bear $45
+- Holding Period: Medium-term (1-2 years)
+- Stop Loss: $42 (25% below entry)
+
+**Position Sizing**: Satellite position (1-2%)
+
+---
+
+
+---
+
 # MODEL PORTFOLIO
 
 ## Target Allocation — 20-25 Positions
@@ -724,6 +838,14 @@ NIST PQC Standards → Migration Services → Enterprise Security Overhaul
 |--------|---------|------------|-------|------|
 | EQIX | Equinix | 2% | Data Center | Core |
 | VRT | Vertiv | 1% | Power/Cooling | Satellite |
+| NOW | ServiceNow | 1% | AI Agents | Satellite |
+| HUT | Hut 8 | 1% | Data Center | Satellite |
+
+### Robotics/Automation (5-10%)
+| Ticker | Company | Allocation | Chain | Type |
+|--------|---------|------------|-------|------|
+| ATS | ATS Corporation | 2% | Robotics | Core |
+| ROK | Rockwell Automation | 1% | Robotics | Satellite |
 | NOW | ServiceNow | 1% | AI Agents | Satellite |
 | HUT | Hut 8 | 1% | Data Center | Satellite |
 
