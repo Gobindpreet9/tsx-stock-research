@@ -31,6 +31,77 @@ All agents must use these sources. Flag when data is unavailable or stale (>30 d
 
 ---
 
+---
+
+## FRAMEWORK PRINCIPLES — CRITICAL THINKING PROTOCOLS
+
+### Second-Order Thinking Requirement
+
+For EVERY trend identified, answer these questions:
+
+1. **First-order**: "Who benefits if Company A wins?" (end-product makers)
+2. **Second-order**: "Who benefits if ANY company wins?" (component suppliers, infrastructure, tools)
+3. **Third-order**: "Who benefits if the trend FAILS?" (substitutes, hedges)
+
+**Rationale**: Component suppliers and infrastructure providers typically offer better risk/reward than end-product winners.
+
+---
+
+### Supply Chain Mapping Protocol (Physical Technology Trends)
+
+For trends involving physical products (robots, EVs, nuclear, data centers, etc.):
+
+1. **Map the full value chain**:
+   ```
+   Raw Materials → Components → Subsystems → End Products → Applications/Services
+   ```
+
+2. **Quantify by % of value**:
+   - What % of end-product cost is in components vs. assembly vs. software?
+   - Which layers have highest margins? Lowest competition?
+
+3. **Identify public suppliers at each level**:
+   - Prioritize companies with diversified customer bases
+   - "Picks and shovels" test: Does this supplier benefit if Tesla OR Figure OR Amazon wins?
+
+4. **Private-to-Public Mapping**:
+   - When private companies reach massive valuations (e.g., Figure AI at $39B)
+   - Identify their public suppliers as alternatives
+
+**Rationale**: Hardware value chains concentrate value in components (50%+ of BOM), not end assembly.
+
+---
+
+### Geographic Gap Acknowledgment
+
+When a trend has no Canadian exposure:
+
+- **Explicitly flag**: "No Canadian pure-play available"
+- **Provide best global alternatives** accessible to Canadian investors
+- **Consider ETFs** as proxy exposure
+- **Do NOT de-prioritize** the trend due to geography
+
+**Rationale**: Missing major trends due to Canadian-only bias sacrifices returns unnecessarily.
+
+---
+
+### Cross-Cutting Validation Questions (Stage Gate)
+
+Before finalizing ANY stage, ALL subagents must answer:
+
+1. **Second-Order**: "Who benefits indirectly from this trend?"
+2. **Value Chain**: "What % of value is in components vs. end products? Have we mapped the supply chain?"
+3. **Geographic Gap**: "If no Canadian exposure, what are the best global alternatives?"
+4. **Private Signal**: "Do private market valuations suggest public opportunities we're missing?"
+5. **Contrarian**: "What's the non-obvious/under-appreciated way to play this trend?"
+
+**If any answer reveals a gap → Iterate before proceeding.**
+
+---
+
+## Original Framework Continues Below
+
+---
 ## STAGE 0: Macro Regime Assessment (Foundation)
 
 **Objective**: Classify current market regime before trend analysis. This sets risk appetite and sector bias for all subsequent stages.
@@ -137,6 +208,22 @@ Launch the following subagents **simultaneously**:
 - Synthetic biology → bio-manufacturing
 
 ⚠️ **TIMING CHECK**: For immediate trends, explicitly flag: Is the market narrative already saturated? Are valuations pricing in 3-5 years of growth already?
+
+⚠️ **FOR PHYSICAL TECHNOLOGY TRENDS (Robotics, EVs, Nuclear, etc.)**
+**Apply Supply Chain Mapping Protocol**:
+1. Map components → subsystems → end products
+2. Quantify % of BOM value at each layer
+3. Identify public component suppliers (diversified customers)
+4. Prioritize "picks and shovels" over end-product winners
+
+**Template examples (research current state of these AND find new ones)**:
+- AI compute demand → infrastructure → power → materials
+- AI agents/automation → labor displacement → retraining
+- Robotics → industrial automation → sensors → services
+  - **Components**: Precision gears, actuators, machine vision, motion control
+  - **Suppliers**: Who benefits if Tesla OR Figure OR Amazon wins?
+- Quantum computing → cryptography disruption
+- Synthetic biology → bio-manufacturing → ag-tech → pharma
 **Template examples (research current state of these AND find new ones):**
 - AI compute demand → infrastructure → power → materials
 - AI agents/automation → labor displacement → retraining
