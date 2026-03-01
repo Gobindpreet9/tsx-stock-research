@@ -131,7 +131,25 @@ Prioritize Canadian-listed stocks when quality is comparable, but **do not compr
 
 **Naming**: `{Date}_Investment_Research_Report.md`
 
-**Retention**: Maximum 10 most recent reports
+**Retention Policy**:
+- Maximum 10 most recent reports retained
+- **ONLY final synthesized reports** stored in `./reports/`
+- Intermediate subagent files (trend chain analyses, temporary research) must be cleaned up after final report assembly
+- Subagents may create temporary files during execution (e.g., `stage1_*_trend_chain.md`, `*_analysis.md`) for verification and synthesis
+- **FINAL STEP**: After Stage 5 report assembly is complete, delete all intermediate subagent files from `./reports/`, retaining only the final `{Date}_Investment_Research_Report.md`
+
+**Cleanup Protocol** (execute after Stage 5 complete):
+```bash
+# Keep only final reports (YYYY-MM-DD_Investment_Research_Report.md pattern)
+# Remove all intermediate files:
+# - stage1_*_trend_chain.md
+# - *_trend_chain.md
+# - *_analysis.md
+# - humanoid_*_investment.md
+# - any other working documents
+```
+
+**Rationale**: The `./reports/` folder is for finalized, actionable investment reports only. Intermediate research files clutter the directory and create confusion about which document is authoritative. Subagents should use temporary files during execution for traceability, but cleanup is mandatory before task completion.
 
 ---
 
